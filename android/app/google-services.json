@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "561774866325",
+    "project_id": "attendanceapp-77847",
+    "storage_bucket": "attendanceapp-77847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561774866325:android:99cf995875eb1e5cca909c",
+        "android_client_info": {
+          "package_name": "com.skillzupp.adminattendance.attendanceadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561774866325-36vqegvemedjcvkt9t790364u99dndd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6V8zEmqJZ1bt6PNBKwwGzIeMVcQg-k4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561774866325-36vqegvemedjcvkt9t790364u99dndd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561774866325-34644t8nvtiq5j3rgeov0auq3othouk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skillzupp.checkin.doormanapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561774866325:android:5895e7b5ef11616eca909c",
+        "android_client_info": {
+          "package_name": "com.skillzupp.checkin.doormanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561774866325-36vqegvemedjcvkt9t790364u99dndd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6V8zEmqJZ1bt6PNBKwwGzIeMVcQg-k4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561774866325-36vqegvemedjcvkt9t790364u99dndd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561774866325-34644t8nvtiq5j3rgeov0auq3othouk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skillzupp.checkin.doormanapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
